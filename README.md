@@ -38,3 +38,6 @@ pip install -r requirements.txt
 jupyter notebook Customer_Segmentation.ipynb
 
 This project demonstrates practical knowledge of unsupervised learning and clustering techniques used in real-world customer analytics systems.
+
+## Output
+![Clusters](images.output.png)
